@@ -20,10 +20,10 @@ import analogio
 sensor = analogio.AnalogIn(board.GP26)
 
 while True:
-  # Serial print the sensor value every 1 second
-  raw_value = sensor.value
-  voltage_value = (raw_value * 3.3) / 65536
-  print('Raw Value : ', raw_value)
-  print('Voltage Value : ', voltage_value)
-  print('-------------------------')
-  time.sleep(1)
+    # Serial print the sensor value every 1 second
+    raw_value = sensor.value
+    voltage_value = (raw_value * 3.3) / 65536
+    print('Raw Value : ', raw_value)
+    print('Voltage Value : ', voltage_value)
+    print('-------------------------')
+    time.sleep(1)

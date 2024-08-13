@@ -38,8 +38,8 @@ WHITE = (100, 100, 100)
 colour = [RED,ORANGE,YELLOW,GREEN,CYAN,BLUE,PURPLE,WHITE]
 
 while True:
-  # Light up the neopixel RGB LED and change the colour every 0.15s
-  for i in range(len(colour)):
-    pixel.fill(colour[i])
-    time.sleep(0.5)
+    # Light up the neopixel RGB LED and change the colour every 0.15s
+    for i in range(len(colour)):
+        pixel.fill(colour[i])
+        time.sleep(0.5)
     

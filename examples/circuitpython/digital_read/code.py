@@ -21,7 +21,7 @@ import adafruit_hcsr04
 sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.GP17, echo_pin=board.GP16)
 
 while True:
-  Distance = sonar.distance
-  print('Distance : ', Distance, 'cm')
-  time.sleep(1)
+    Distance = sonar.distance
+    print('Distance : ', Distance, 'cm')
+    time.sleep(1)
   
