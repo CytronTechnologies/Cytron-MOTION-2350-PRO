@@ -11,9 +11,9 @@ Press GP20 button to play a short melody, lights up all
 blue LEDs, motor LEDs.
 Press GP21 will execute similar action but in reverse direction.
 
-ROBO PICO also has four DC motors quick test buttons 
-built-in. You may press the onboard M1A, M1B, M2A or M2B 
-push buttons to run your motors without writing any code.
+MOTION 2350 Pro also has four DC motors quick test buttons 
+built-in. You may press the onboard M1A, M1B, M2A, M2B, M3A, M3B, 
+M4A and M4B push buttons to run your motors without writing any code.
 
 AUTHOR  : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
