@@ -1,7 +1,7 @@
 # Cytron-MOTION-2350-PRO  
 Build an advanced robot, minimize efforts on electronics, and focus on mechanics with [MOTION 2350 PRO](https://cytron.io/p-motion-2350-pro). Powered by the RP2350 microprocessor from Raspberry Pi, this platform delivers the processing power you need.  
 
-![motion-2350-pro-pinout-diagram]()
+![motion-2350-pro-pinout-diagram](https://github.com/CytronTechnologies/Cytron-MOTION-2350-PRO/blob/main/images/Pinout_Diagram_MOTION-2350-Pro.png)
 
 ## Requirements  
 To get started, you will need the following hardware and software:  
