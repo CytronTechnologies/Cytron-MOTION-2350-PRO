@@ -13,8 +13,8 @@ https://github.com/CytronTechnologies/CytronMotorDriver/tree/master
 #include "CytronMotorDriver.h"
 
 // Configure the motor driver.
-CytronMD motor1(PWM_DIR, 8, 9);  
-CytronMD motor2(PWM_DIR, 10, 11);
+CytronMD motor1(PWM_PWM, 8, 9);  
+CytronMD motor2(PWM_PWM, 10, 11);
 
 // The setup routine runs once when you press reset.
 void setup() {
