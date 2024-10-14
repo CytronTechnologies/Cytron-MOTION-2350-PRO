@@ -15,7 +15,7 @@ To get started, you will need the following hardware and software:
 Make sure on the Arduino IDE to enable the TinyUSB:  
 `Tools>USB Stack:>Adafruit TinyUSB`  
 
-And set the CPU Speed to 120MHz.
+And set the CPU Speed to 120MHz.  
 `Tools>CPU Speed:>120 MHz ` 
 
 ## Resources 
