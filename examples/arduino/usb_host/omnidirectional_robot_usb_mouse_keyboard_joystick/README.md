@@ -11,6 +11,10 @@ To get started, you will need the following hardware and software:
 * [USB Joystick](https://cytron.io/p-wireless-usb-joystick-for-retro-gaming)  
 * Chassis  
 
+**Software:**  
+Additional arduino library:
+* Pico PIO USB by sekigon-gonnoc  
+
 **Instructions:**  
 Make sure on the Arduino IDE to enable the TinyUSB:  
 `Tools>USB Stack:>Adafruit TinyUSB`  
