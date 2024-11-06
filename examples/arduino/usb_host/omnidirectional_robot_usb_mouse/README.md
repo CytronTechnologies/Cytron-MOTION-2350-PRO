@@ -10,6 +10,11 @@ To get started, you will need the following hardware and software:
 * Chassis
 * USB Mouse
 
+
+**Software:**  
+Additional arduino library:
+* Pico PIO USB by sekigon-gonnoc  
+
 **Instructions:**  
 Make sure on the Arduino IDE to enable the TinyUSB:  
 `Tools>USB Stack:>Adafruit TinyUSB`  
