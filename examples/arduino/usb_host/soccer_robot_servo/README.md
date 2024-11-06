@@ -9,7 +9,12 @@ To get started, you will need the following hardware and software:
 * 2x [DC Micro Metal Gearmotor](https://cytron.io/p-6v-85rpm-dc-micro-metal-gearmotor)  
 * [Sumozade Silicone Wheel Set (30mm x 23mm)](https://cytron.io/p-sumozade-silicone-wheel-set-30mm-x-23m)  
 * [SG90 Micro Servo](https://cytron.io/p-sg90-micro-servo) 
-* Chassis  
+* Chassis
+
+**Software:**  
+Additional arduino library:
+* Pico PIO USB by sekigon-gonnoc  
+
 
 **Instructions:**  
 Make sure on the Arduino IDE to enable the TinyUSB:  
